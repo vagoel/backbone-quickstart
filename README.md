@@ -6,7 +6,7 @@ Backbone-Bootstarp-Require Project Quickstart
 
 3)npm install
 
-4)bower install
+4)npm run start
 
 
 
